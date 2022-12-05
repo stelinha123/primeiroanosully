@@ -1,6 +1,20 @@
-h1{
-color: aliceblue;
-text-align: center;
-
+body {
+    background-color: black;
 }
 
+h1{
+color: white;
+text-align: center;
+}
+p {
+    text-align: center;
+    color:white;
+    font-size: 20px;
+}
+
+img {
+    position: absolute;
+    left: 320px;
+    top: 250px;
+
+}
